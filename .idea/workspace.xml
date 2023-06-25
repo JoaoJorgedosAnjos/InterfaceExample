@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b91d6864-75e7-4989-aab8-d26b6044d8c1" name="Changes" comment="" />
+    <list default="true" id="b91d6864-75e7-4989-aab8-d26b6044d8c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equipamentos/copiadora/Copiadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equipamentos/copiadora/Xerox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equipamentos/digitalizadora/Digitalizadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equipamentos/digitalizadora/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equipamentos/impressora/Deskjet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equipamentos/impressora/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equipamentos/impressora/Laserjet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equipamentos/multifuncional/EquipamentoMultifuncional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estabelecimento/Fabrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Copiadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Deskjet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Digitalizadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EquipamentoMultifuncional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Impressora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Laserjet.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,7 +49,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -32,7 +66,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687702902076</updated>
+      <workItem from="1687702903088" duration="3184000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
